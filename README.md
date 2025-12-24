@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OSCP**
 
-- 📝 I regularly write articles on [arthdsec.com](arthdsec.com)
+- 📝 I write articles on [arthdsec.com](arthdsec.com)
 
 - 💬 Ask me about **Incident Response, Threat Hunting, and Windows Internals**
 
